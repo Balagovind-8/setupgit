@@ -1,1 +1,35 @@
-# setupgit
+📘 Sample Web App
+
+This repository contains a simple, lightweight web application built using HTML, CSS, and JavaScript.
+It demonstrates a basic interactive UI where a user can click a button to display a message on the screen.
+
+📂 Project Structure
+/
+├── index.html      → Main webpage structure  
+├── style.css       → Styling for layout and UI elements  
+└── script.js       → JavaScript functionality and interactivity  
+
+🚀 How to Run
+
+Running the project is simple:
+
+Download or clone the repository
+
+Open index.html in any modern web browser
+
+No frameworks, installations, or dependencies are required.
+
+🧩 Features
+
+Clean and minimal HTML structure
+
+Simple, responsive CSS styling
+
+Button click interaction using JavaScript
+
+Lightweight and beginner-friendly codebase
+
+📌 Purpose
+
+This project serves as a basic starter template for building small web applications.
+It is ideal for beginners learning HTML, CSS, and JavaScript, or for testing simple UI interactions.
