@@ -6,7 +6,6 @@ It demonstrates a basic interactive UI where a user can click a button to displa
 ---
 
 ## 📂 Project Structure
-/
 ├── index.html → Main webpage structure
 
 ├── style.css → Styling for layout and UI elements
