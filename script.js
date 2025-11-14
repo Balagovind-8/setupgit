@@ -1,9 +1,6 @@
-console.log("JS connected and ready!");
-
-const btn = document.getElementById("clickBtn");
-const output = document.getElementById("output");
-
-btn.addEventListener("click", () => {
-  output.innerText = "Button clicked! App is working!";
+document.getElementById("clickBtn").addEventListener("click", () => {
+  const output = document.getElementById("output");
+  output.textContent = "Button clicked! App is working beautifully!";
   output.classList.add("show");
+  console.log("Button clicked"); // debug
 });
