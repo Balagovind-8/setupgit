@@ -1,6 +1,3 @@
 document.getElementById("clickBtn").addEventListener("click", () => {
-  const output = document.getElementById("output");
-  output.textContent = "Button clicked! App is working beautifully!";
-  output.classList.add("show");
-  console.log("Button clicked"); // debug
+  document.body.style.background = "linear-gradient(135deg, #001f3f, #0074D9)";
 });
