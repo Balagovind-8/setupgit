@@ -1,35 +1,36 @@
-📘 Sample Web App
+# Sample Web App
 
-This repository contains a simple, lightweight web application built using HTML, CSS, and JavaScript.
+This repository contains a simple, lightweight web application built using **HTML**, **CSS**, and **JavaScript**.  
 It demonstrates a basic interactive UI where a user can click a button to display a message on the screen.
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 /
-├── index.html      → Main webpage structure  
-├── style.css       → Styling for layout and UI elements  
-└── script.js       → JavaScript functionality and interactivity  
+├── index.html → Main webpage structure
+├── style.css → Styling for layout and UI elements
+└── script.js → JavaScript functionality and interactivity
 
-🚀 How to Run
+---
 
-Running the project is simple:
+## 🚀 How to Run
 
-Download or clone the repository
+1. Download or clone the repository  
+2. Open `index.html` in any modern web browser  
 
-Open index.html in any modern web browser
+No installations or dependencies are required.
 
-No frameworks, installations, or dependencies are required.
+---
 
-🧩 Features
+## 🧩 Features
 
-Clean and minimal HTML structure
+- Clean and minimal HTML structure  
+- Simple responsive CSS styling  
+- JavaScript button interaction  
+- Lightweight and beginner-friendly codebase  
 
-Simple, responsive CSS styling
+---
 
-Button click interaction using JavaScript
+## 📌 Purpose
 
-Lightweight and beginner-friendly codebase
-
-📌 Purpose
-
-This project serves as a basic starter template for building small web applications.
-It is ideal for beginners learning HTML, CSS, and JavaScript, or for testing simple UI interactions.
+This project serves as a basic starter template for experimenting with small web applications using HTML, CSS, and JavaScript.
