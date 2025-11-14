@@ -1,5 +1,9 @@
-document.getElementById("clickBtn").addEventListener("click", function () {
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("clickBtn");
   const output = document.getElementById("output");
-  output.innerText = "Button clicked! App is working beautifully!";
-  output.classList.add("show");
+
+  btn.addEventListener("click", () => {
+    output.innerText = "Button clicked! App is working beautifully!";
+    output.classList.add("show");
+  });
 });
